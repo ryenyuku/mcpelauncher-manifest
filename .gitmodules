@@ -48,10 +48,10 @@
 	url = ../../minecraft-linux/mcpelauncher-common.git
 [submodule "mcpelauncher-core"]
 	path = mcpelauncher-core
-	url = ../../bylaws/mcpelauncher-core.git
+	url = ../../bylaws/mcpelauncher-core/tree/saa
 [submodule "mcpelauncher-client"]
 	path = mcpelauncher-client
-	url = ../../bylaws/mcpelauncher-client.git
+	url = ../../bylaws/mcpelauncher-client/tree/saa
 [submodule "mcpelauncher-server"]
 	path = mcpelauncher-server
 	url = ../../minecraft-linux/mcpelauncher-server.git
